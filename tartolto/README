@@ -1,0 +1,4 @@
+tartolto.sh assumes you are on a linux system with a tape drive and mail running.
+
+uses /bin/sh which in modern systems is linked to /bin/bash so make sure you are 
+in the correct shell.
