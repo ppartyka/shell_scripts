@@ -1,0 +1,5 @@
+Simple script to block IP's via iptables.
+
+Tested on CentOS 6.X
+
+Best to place this script into /sbin/ and only use as root
